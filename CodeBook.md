@@ -55,7 +55,10 @@ the authors or their institutions for its use or misuse. Any commercial use is p
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-## FEATURES VARIABLES
+## FEATURES VARIABLES - 79 columns described by
+- Variable Name:
+- Description:
+- Values:
 
 ### Applies to "tidy.txt" which is present in the repo:
 https://github.com/donalddominko/datascience-getting-and-cleaning-data
