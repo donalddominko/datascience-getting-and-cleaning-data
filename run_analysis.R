@@ -45,7 +45,7 @@ run_analysis = function(){
         dfAllColsOK = dfAll[, vinColsOK]
         rm(dfAll) # Housekeeping
         
-        # Finally we add those column names and we can get rid of dfAll
+        # Finally we add those column names
         colnames(dfAllColsOK) = c(vinColsSelect[[2]], "activity", "subject")
         
         
